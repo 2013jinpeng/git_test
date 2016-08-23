@@ -1,5 +1,5 @@
 this is b.c file!
 
-Hello World!
+echo "Hello World!"
 printf("Hello World!");
-
+cout << "Hello World!" << endl;
