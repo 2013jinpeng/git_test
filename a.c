@@ -5,3 +5,5 @@ NO.2
    github test!
 NO.3
    this is conflict test!
+NO.4
+   this is store test!
